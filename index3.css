@@ -1,0 +1,35 @@
+section{
+    width: 350px;
+    height: 350px;
+    margin: 40px auto;
+    position: relative;
+    transition: 2s ;
+    transform-style: preserve-3d;
+}
+
+body{
+   perspective: 900px;
+}
+
+section:hover{
+   transform: rotateY(180deg);
+}
+
+div{
+    width: 100%;
+    height: 100%;
+}
+.one{
+  background-color: tomato;
+  z-index: 1;
+}
+
+.two{
+    background-color: aqua;
+    transform: rotateY(180deg);
+
+}
+.one, .two{
+    position: absolute;
+    backface-visibility: hidden;
+}

@@ -1,0 +1,31 @@
+div{
+
+    width: 300px;
+    height: 300px;
+    background-color: darkblue;
+    animation: kuchbhi;
+}
+
+div{
+    animation-name: kuchbhi;
+    animation-duration: 3s;
+}
+@keyframes kuchbhi{
+    
+0%{
+    background-color: aqua;
+    height: 100px;
+    width:  120px;
+}
+
+50%{
+    background-color:blueviolet;
+    height: 106px;
+    width:  147px;
+}
+100%{
+    background-color:rgb(135, 253, 24);
+    height: 263px;
+    width:  237px;
+}
+}

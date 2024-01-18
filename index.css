@@ -1,0 +1,102 @@
+/* h1
+{
+color: brown;
+}
+
+
+
+# one {
+
+color: aquamarine;
+} */
+
+
+
+
+/* .two 
+{
+color: cadetblue;
+} */
+
+
+/* 
+input[type='text']
+{
+color: aliceblue;
+} */
+
+
+
+/* a[href^= 'https']{
+
+  background-color:blue;
+
+} */
+
+
+
+/* a[href$='.com']{
+    background-color: blueviolet;
+} */
+
+/* 
+#www
+{
+background-color: aqua;
+} */
+
+/* #parent{
+  width: 200px;   
+  height: 200px;
+  background-color: aquamarine;
+} */
+
+
+/* #child{
+  background-color: sienna;
+  width: 100px; 
+  height: 100px;
+
+} */
+
+/* #2{
+  width: 200vm;   
+  height: 200vh;
+  background-color: aquamarine;
+} */
+
+/* li
+{
+  font-size: 2em;
+} */
+
+/* div{
+  border: 2px solid green;
+  padding: 30px;
+  margin: 30px;
+} */
+
+
+/* li{
+  font-size: 3rem ;
+} */
+
+/* div
+{
+  border: 2px solid green;
+  background-color: aqua;
+  height: 40px;
+  /* display: inline-grid; */
+ */
+
+/* span
+{
+  border: 2px solid red;
+  background-color: blue;
+  height: 40px ;
+  width: 150px;
+  /* display: block; */
+  /* display: inline-block; */
+  /* visibility: hidden; */
+*/
+

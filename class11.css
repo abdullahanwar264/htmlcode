@@ -1,0 +1,31 @@
+section{
+
+    height: 600px;
+    width: 85vw;
+    border: 2px solid red;
+    margin: 30px auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 150px 150px ;
+
+
+
+}
+div{
+
+    border: 2px solid gray;
+    background-color: aqua;
+}
+#one{
+    grid-row-start: 2;
+    grid-row-end: 3;
+    grid-column-start: 2 ;
+    grid-column-end: 3;
+}
+
+#two{
+    grid-row-start: 1;
+    grid-row-end: 4;
+
+}
+
