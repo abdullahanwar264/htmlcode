@@ -1,0 +1,24 @@
+/* UNIVERSAL SELECTOR TAG */
+*{
+    color: blue;
+}
+
+/* ELEMENT SELECTOR */
+H1{
+    color: rgb(8, 129, 89);
+}
+
+/* ID SELECTOR */
+#ONE {
+    color: chartreuse;
+}
+
+#TWO{
+    color: darkblue;
+}
+
+/* CLASS SELECTOR */
+
+.class{
+    color: blueviolet;
+}

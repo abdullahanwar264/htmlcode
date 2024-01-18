@@ -1,0 +1,52 @@
+div
+{
+    text-align:center;
+    text-decoration: none;
+
+}
+
+
+#one
+{
+
+    /* for adjustment of the text */
+    text-align: left;
+    text-decoration-line: line-through;
+}
+
+
+a
+{
+    text-decoration: orange wavy ;
+}
+
+#three
+{
+
+    /* FONT PATTERN */
+    font-family: monospace;
+    font-weight: normal ;
+}
+
+
+/*UNTIS IN CSS */
+/* TWO TYPES :-
+ABSOLUTE
+RELATIVE */
+
+
+/* ABSOLUTE */
+#EK
+{
+   font-size: 25PX;
+}
+
+#DO{
+    line-height: 2px;
+}
+
+#TEEN{
+    text-transform:uppercase;
+}
+
+

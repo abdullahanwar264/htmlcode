@@ -1,0 +1,22 @@
+/* CSS- cascading style sheet 
+it is a language that is used to describe the style of a document */
+H1{
+
+    /* USE TO SET FOREGROUND   EX=TEXT , BUTTON , LINK ETC */
+    color: rgb(21, 173, 153);
+    
+}
+
+
+p{
+    color: rgb(55, 160, 221);
+}
+button{
+    color: rgb(230, 105, 121);
+    background-color: rgb(255, 255, 255);
+}
+
+body{
+    background-color: rgba(228, 157, 52, 0.514);
+    color: #00ff00;
+}

@@ -1,0 +1,67 @@
+18/10/23
+
+
+//object is in heap memo //
+
+retun data type , name of the method () // 
+{
+
+retun;
+}
+
+//function and method both are same // superman//
+//functin hamesha data retun krega //
+//when fuction retuns data , fuction will be vanished//
+//every functin has its own stack //
+// fuction main method ke bahar lakin class ke andr **create** hota hai//
+// fuction main method ke andr **call** hota hai//
+
+
+{
+
+// in java there are two types of methods //
+1. static method
+2. non  static method
+
+}
+
+// static method can be called directly by its name, but we need objects to call a non static methods //
+// creation ke time pe perentheses me parametere //
+// calling  ke time pe perentheses me argument //
+// inside the perentheses arg me kabhi bhi data type use nahi hota hai //
+
+20/10/23
+
+1.non static ko banane ke liye oject ka use karna hota hai
+2.jo banta hai main me 
+3.object ko create karne ke liye new ka use hota hai 
+4.ek esa method jis ka name class ke name se match karta hai use constructor kehte hai 
+5.or constructor me retun nhi likhte hain 
+
+27/10/23
+
+constructure automatically call hota hai object ke create hote hee
+static method is also known as class method
+
+30/10/23
+
+jab bhi class
+
+CONSTRUCTOR:-
+
+1. constructer is a special method. The name of the constructre is same as the class name.
+2. constructer never returns any thing.
+3. constructor never has a return data type.
+
+
+Q) agr constructor kuch bhi retun nhi karta hai to constructor ka purpose kiya hai ?
+Q) agr constructor ek method hai to constructor ko call kaha or kese karenge ?
+
+4. class is nothing but user define data type.
+5. refrence variable holds address of an object. Whose data type is class.
+6. 
+
+4/12/23
+
+1) when we know how many times the loop running = for loop
+2) when we dont know how many times the loop running = while loop

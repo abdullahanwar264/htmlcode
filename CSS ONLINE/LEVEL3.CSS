@@ -1,0 +1,100 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+/* #box1{
+    height: 100px;
+    width: 100px;
+    background-color:aqua;
+    font-size: 10px;
+}
+
+#box2{
+    /* height: 50%;
+    width: 50%; */
+
+    /* height: 2.5em;
+    width: 2.5em; */
+
+
+/* 
+    height: 10vh;
+    width: 10vw; */
+
+    
+    /* background-color: blanchedalmond;
+    margin-left: 10%;
+    font-size: 2em ;
+    width: 5rem;
+ } */ 
+
+
+
+
+
+ div{
+    height: 100px;
+    width: 100px;
+    background-color:blueviolet;
+    display: inline-block;
+    border: 2px solid black;
+ }
+
+#one{
+    position: static;
+    top: 20px;
+
+/* when the position is static the moving of the element is not allowed
+it will become fixed  */
+}
+
+#two{
+    position: absolute;
+    /* top: 0; */
+    /* left: 0; */
+    /* top: 0;  */
+    z-index: 1;
+
+/* when the position is absolute the element is the postioning of the element
+is from the closest positioned ancestor . ( closest ancestor [body]) */
+
+  /* (REMOVED FROM THE FLOW) */
+}
+
+#three{
+    position: relative;
+    top: 20px;
+    z-index: 4;
+
+/*when the position is relative the moving of the element is from its
+ own position where it is previously */
+}
+
+#four {
+    position:fixed ;
+    right: 0;
+    bottom: 0;
+    width: 10vw;
+
+    /* when the position is fixed the position if the element is become fixed
+    [useualy used for the footer and the headers] */
+    /* (REMOVED FROM THE FLOW) */
+}
+
+
+#five{
+    position: sticky;
+    top: 200px;
+/* 
+ position is based on user scroll position */
+   
+}
+
+
+#annoy{
+    background-image: url("image.in.jpg");
+    background-size: cover;
+    /* background-repeat: no-repeat; */
+   
+}

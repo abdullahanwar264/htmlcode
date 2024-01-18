@@ -1,0 +1,30 @@
+div{
+
+    height: 100px;
+    width: 100px;
+    margin: 25px;
+    padding: 25px;
+    display: inline-block;
+
+    /* background-color: pink;
+  display: inline; */
+}
+
+button{
+    display: block;
+}
+
+#one{
+    background-color: aqua;
+}
+
+#two{
+    background-color: blue;
+   /* display:none;
+   visibility:hidden; */
+   
+}
+
+#three{
+    background-color: brown;
+}

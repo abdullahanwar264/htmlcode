@@ -1,0 +1,51 @@
+h1{
+    height: 50px;
+    width: 200px;
+    background-color: aqua;
+
+    /* border-width: 3px;
+    border-style: dotted;
+    border-color:darkblue; */
+    text-align: center;
+
+    /*BORDERSHORT HAND*/
+    border: 3px blue dotted;
+}
+div
+{
+    height: 100px;
+    width: 100px;
+    background-color: pink;
+    text-align: left;
+
+    /* border-style: solid;
+    border-width: 2px;
+    border-color: blue; */
+    
+    /*BORDERSHORT HAND*/
+    border: 2px solid rebeccapurple;
+
+    /* CORNERS OF THE BOXES */
+    /* border-radius: 10px; */
+    /* OR */
+    /* border-radius: 50%; */
+
+
+    /* PADDING = space b/w border and content */
+
+    padding: 25px ;
+    /* OR */
+    /* padding-left: 20px;
+    /* OR */
+   /* padding: 10px 20px 30px 40px; */
+
+
+    /* MARGIN = SPACE B/W THE BOXES */
+
+    margin-top: 40px ;
+    /* OR */
+    margin: 40px 40px 40px 40px ;
+     /*OR  */
+     margin: 10%;
+
+}
